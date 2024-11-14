@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Gbovoomere
+# 👋 Hello, I'm 'Gbovo Omere
 
 Welcome to my GitHub profile! I'm a passionate newbie in the world of coding, currently exploring and honing my skills in web development and programming.
 
