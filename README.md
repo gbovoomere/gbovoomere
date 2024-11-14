@@ -19,12 +19,6 @@ Welcome to my GitHub profile! I'm a passionate newbie in the world of coding, cu
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gbovoomere&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gbovoomere&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 - **GitHub**: [@gbovoomere](https://github.com/gbovoomere)  
 - **Email**: gbovoomere.dev@gmail.com  
@@ -38,4 +32,4 @@ Welcome to my GitHub profile! I'm a passionate newbie in the world of coding, cu
 
 ---
 
-### Thank you for visiting my profile! 🚀
+#### Thank you for visiting my profile! 🚀
